@@ -9,7 +9,7 @@ Gfg: Easy
 - Pattern 3: https://github.com/sunny0625/GeeksforGeeks/blob/master/Pattern3.cpp
 
 Programming:
-- Learning Java Basics.
+- Learning Java Basics from my paid course.
 
 Open-Source:
 - Done my 1st contribution in SSOC'2. 
