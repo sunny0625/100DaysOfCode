@@ -83,23 +83,56 @@
 
 //////Concatination////////
 
-var a = 10;
-var b = 30;
+//var a = 10;
+//var b = 30;
+//
+//var d = "Sunny";
+//var e = "Singh";
+//
+//var f = d + e;
+//var c = a + b;
+//console.log(c);
+//console.log(f);
+//
+//////////Type Conversion/////////////
+//
+//var g = "10";
+//var h = 20;
+//var j = 30;
+//var i = j + g + h;
+//
+//console.log(i);
+//console.log(typeof(i));
 
-var d = "Sunny";
-var e = "Singh";
+/////////////if & else
 
-var f = d + e;
-var c = a + b;
-console.log(c);
-console.log(f);
+////////////Condition Statements
 
-////////Type Conversion/////////////
+var age = 12;
 
-var g = "10";
-var h = 20;
-var j = 30;
-var i = j + g + h;
+if(age <= 20)
+    {
+        console.log("Teenager");
+    }
+else if(age > 20 && age <= 55)
+    {
+        console.log("Mid Age Person");
+    }
+else
+    {
+        console.log("Retire Age");
+    }
 
-console.log(i);
-console.log(typeof(i));
+////////////////Switch
+
+switch(age)
+    {
+        case 1:
+            console.log("Case 1");
+            break;
+        case 12:
+            console.log("Case 12");
+            break;
+        default:
+            console.log("Wrong Case");
+    }
