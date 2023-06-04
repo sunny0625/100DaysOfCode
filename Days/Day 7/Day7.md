@@ -1,21 +1,13 @@
 # Day 7
 
-College: Work
-- Assignmrnts
-
-Learning: Linux
-- Graphical Interface
-- Desktop
-- X Window system
-- More About the Graphical Desktop
-- GUI Startup
-- GNOME Desktop Environment
-- System Startup and Logging In and Out
-- Graphical Desktop Background
-- gnome-tweaks
+Web Dev:
+- Improving Protfolio
 
 Programming: Learn JavaScript
-- Operators
+- Operators finished
+
+Workshop:
+- Training Deploying AI Model to Cloud.
 
 GitHub: Maintaining repo
 - 100DaysOfCode

@@ -1,21 +1,14 @@
 # Day 8
 
-College: Work
-- Study for viva
+Workshop:
+- CyberSecurity
 
-Learning: Linux
-- Graphical Interface
-- Desktop
-- X Window system
-- More About the Graphical Desktop
-- GUI Startup
-- GNOME Desktop Environment
-- System Startup and Logging In and Out
-- Graphical Desktop Background
-- gnome-tweaks
+DSA: Learning
+- Patterns
 
 Programming: Learn JavaScript
-- Operators
+- if & else
+- Switch Statement
 
 GitHub: Maintaining repo
 - 100DaysOfCode
