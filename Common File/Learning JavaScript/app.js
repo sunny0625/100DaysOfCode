@@ -108,31 +108,102 @@
 
 ////////////Condition Statements
 
-var age = 12;
+//var age = 12;
+//
+//if(age <= 20)
+//    {
+//        console.log("Teenager");
+//    }
+//else if(age > 20 && age <= 55)
+//    {
+//        console.log("Mid Age Person");
+//    }
+//else
+//    {
+//        console.log("Retire Age");
+//    }
+//
+//////////////////Switch
+//
+//switch(age)
+//    {
+//        case 1:
+//            console.log("Case 1");
+//            break;
+//        case 12:
+//            console.log("Case 12");
+//            break;
+//        default:
+//            console.log("Wrong Case");
+//    }
 
-if(age <= 20)
-    {
-        console.log("Teenager");
-    }
-else if(age > 20 && age <= 55)
-    {
-        console.log("Mid Age Person");
-    }
-else
-    {
-        console.log("Retire Age");
-    }
+///////////////Arrays////////
 
-////////////////Switch
+var a = "Misi Saga";
+var b = "Sari";
+var c = "Calgari";
+var d = "Brampton";
+var e = "munda";
+var f = "randa";
 
-switch(age)
+// array is a collection of similar type of data and it holds multiple data in a single variable
+
+// how to declare array??
+
+var ary = []; // first way
+
+var ary2 = new Array(); // second way
+
+console.log(typeof(ary));
+
+// insert data into array
+
+ary = ["Mortriol", "Sari", "Nova Scoshiya", "Mini Punjab", "Toronto"];
+
+// how can we traverse data from array
+
+console.log(ary[2]);
+
+// how to mutate array
+
+ary[2] = "Canada";
+
+console.log(ary[2]);
+
+console.log(ary);
+
+//////// Loops & Itrators
+
+// Types of Loops
+
+var i = 0;
+
+while(i < 5)
     {
-        case 1:
-            console.log("Case 1");
-            break;
-        case 12:
-            console.log("Case 12");
-            break;
-        default:
-            console.log("Wrong Case");
+        console.log(ary[i]);
+        i++;
     }
+console.log("While");
+
+//Do While
+
+var k = 0;
+do{
+        console.log(k);
+        k++;
+}while(k < 5)
+console.log("Do While");
+    
+// For loop
+
+for(var j = 0; j < 5; j++)
+    {
+        console.log(ary[j]);
+    }
+console.log("For Loop");
+
+for(var j = 0; j < ary.length; j++)
+    {
+        console.log(ary[j]);
+    }
+console.log("For Loop length");
