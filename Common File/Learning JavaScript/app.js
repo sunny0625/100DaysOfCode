@@ -139,71 +139,72 @@
 
 ///////////////Arrays////////
 
-var a = "Misi Saga";
-var b = "Sari";
-var c = "Calgari";
-var d = "Brampton";
-var e = "munda";
-var f = "randa";
+//var a = "Misi Saga";
+//var b = "Sari";
+//var c = "Calgari";
+//var d = "Brampton";
+//var e = "munda";
+//var f = "randa";
 
 // array is a collection of similar type of data and it holds multiple data in a single variable
 
 // how to declare array??
 
-var ary = []; // first way
+//var ary = []; // first way
 
-var ary2 = new Array(); // second way
+//var ary2 = new Array(); // second way
 
-console.log(typeof(ary));
+//console.log(typeof(ary));
 
 // insert data into array
 
-ary = ["Mortriol", "Sari", "Nova Scoshiya", "Mini Punjab", "Toronto"];
+//ary = ["Mortriol", "Sari", "Nova Scoshiya", "Mini Punjab", "Toronto"];
 
 // how can we traverse data from array
 
-console.log(ary[2]);
+//console.log(ary[2]);
 
 // how to mutate array
 
-ary[2] = "Canada";
+//ary[2] = "Canada";
 
-console.log(ary[2]);
+//console.log(ary[2]);
 
-console.log(ary);
+//console.log(ary);
 
 //////// Loops & Itrators
 
 // Types of Loops
 
-var i = 0;
-
-while(i < 5)
-    {
-        console.log(ary[i]);
-        i++;
-    }
-console.log("While");
+//var i = 0;
+//
+//while(i < 5)
+//    {
+//        console.log(ary[i]);
+//        i++;
+//    }
+//console.log("While");
 
 //Do While
 
-var k = 0;
-do{
-        console.log(k);
-        k++;
-}while(k < 5)
-console.log("Do While");
-    
-// For loop
+//var k = 0;
+//do{
+//        console.log(k);
+//        k++;
+//}while(k < 5)
+//console.log("Do While");
+//    
+//// For loop
+//
+//for(var j = 0; j < 5; j++)
+//    {
+//        console.log(ary[j]);
+//    }
+//console.log("For Loop");
+//
+//for(var j = 0; j < ary.length; j++)
+//    {
+//        console.log(ary[j]);
+//    }
+//console.log("For Loop length");
 
-for(var j = 0; j < 5; j++)
-    {
-        console.log(ary[j]);
-    }
-console.log("For Loop");
-
-for(var j = 0; j < ary.length; j++)
-    {
-        console.log(ary[j]);
-    }
-console.log("For Loop length");
