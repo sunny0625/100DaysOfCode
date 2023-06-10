@@ -1,11 +1,14 @@
 # Day 14
 
 College:
-- WE Viva Complete
-
+- First placement recruitment
+- Bonami Software
+ 
 Intern: Frontend Dev
-- Day 3 Task Completed
-- 50 Tasks
+- Day 4 Task Completed
+- Clone Log In page
 
-GitHub: Maintaining repo
+GitHub: Repo & Task
 - 100DaysOfCode
+- Log-In-page
+- GSSoC'23 Mentoring
