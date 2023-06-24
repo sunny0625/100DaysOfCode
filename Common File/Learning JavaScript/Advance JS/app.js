@@ -46,4 +46,11 @@ console.log(raj.greet);
 
 ////////Apply
 
-var rajApply = sunny.greet.apply(raj,)
+var rajApply = sunny.greet.apply(raj,["formal", "Morning"]);
+
+///////////bind.......
+///converting a object into function
+
+var rajBind = sunny.greet.bind(raj, "friendly");
+
+rajBind("Evening");
