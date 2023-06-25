@@ -3,5 +3,6 @@
 Learn: College
 - CN for Viva
 
-GitHub: repo
+GitHub: repo & GSSoC'23
 - 100DaysOfCode
+- Mentoring
