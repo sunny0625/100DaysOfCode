@@ -3,5 +3,6 @@
 College:
 - Study Computer Network
 
-GitHub: repo
+GitHub: repo & GSSoC'23
 - 100DaysOfCode
+- Opentek
